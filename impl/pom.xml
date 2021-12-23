@@ -3,13 +3,13 @@
   <parent>
     <groupId>org.jboss.forge.roaster</groupId>
     <artifactId>roaster-parent</artifactId>
-    <version>2.23.1-SNAPSHOT</version>
+    <version>2.23.3-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
   <artifactId>roaster-jdt</artifactId>
   <name>Forge Roaster - JDT Implementation</name>
   <properties>
-    <version.jdt>3.26.0</version.jdt>
+    <version.jdt>3.28.0</version.jdt>
   </properties>
   <dependencies>
     <dependency>
